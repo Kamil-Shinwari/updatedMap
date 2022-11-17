@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542989941145",
+    "project_id": "map-8ba64",
+    "storage_bucket": "map-8ba64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542989941145:android:58bfd0b9d2919021747b08",
+        "android_client_info": {
+          "package_name": "com.amprides.usa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542989941145-ard33brf92p4je5qrgl5rog55hbgneau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ9SHSv8WNvKXNFh1w4NwpVjPJEhFtV7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542989941145-ard33brf92p4je5qrgl5rog55hbgneau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
